@@ -1,1 +1,1 @@
-This is the second chapter commitment, for checking version control in GIT. 
+This is the second chapter commitment, for checking version control in GIT. Random things to test whether this is for real or not.  
